@@ -18,3 +18,10 @@
 ## Go
 # 渗透测试，内网渗透
 [记一次对PUBG外挂病毒的反制过程](https://xz.aliyun.com/t/7626)
+# 编程（思想）
+## C
+## C++
+## Python
+## PHP
+## JAVA
+## Go
