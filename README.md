@@ -18,6 +18,7 @@
 ## Go
 # 渗透测试，内网渗透
 [记一次对PUBG外挂病毒的反制过程](https://xz.aliyun.com/t/7626)
+[SSRF->RCE的艰难利用](https://mp.weixin.qq.com/s/kfYF157ux_VAOymU5l5RFA)
 # 编程（思想）
 ## C
 ## C++
