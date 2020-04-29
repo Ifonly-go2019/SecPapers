@@ -8,6 +8,7 @@
 [MYSQL 注入的tricks](https://xz.aliyun.com/t/7169)
 # SRC
 # WEB Security
+[LFI到RCE](https://zhzhdoai.github.io/2019/05/14/LFItoRCE%E6%80%BB%E7%BB%93/)
 # 语言安全
 ## PHP
 [file_put_contents](https://cyc1e183.github.io/2020/04/03/关于file_put_contents的一些小测试)
